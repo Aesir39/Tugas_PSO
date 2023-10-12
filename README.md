@@ -21,5 +21,6 @@
 ![image](https://github.com/Aesir39/Tugas_PSO/assets/101878702/bb130b61-623d-4d25-bd53-5e21937430aa)
 
 ## Last Commit
-![image](https://github.com/Aesir39/Tugas_PSO/assets/101878702/9c6179f2-86ba-4a3b-84b8-f9cf033625a5)
+![image](https://github.com/Aesir39/Tugas_PSO/assets/101878702/ccd7468d-3dc9-40c7-b276-a43600886267)
+
 
